@@ -1,0 +1,42 @@
+p {
+			  color:yellow; 
+			  line-height: 1.25;
+      margin-bottom: 1em;
+
+}
+           .first {
+		color:red; 
+		font-weight: bold; 
+  		border-left: 5px solid yellow;
+}
+body {
+    background-color: #211813;
+    color: white;
+}
+h1  {
+    color: #FF5373;
+}
+.entry-wrapper {
+    display: flex; 
+    flex-direction:row-reverse;
+    justify-content: space-around;
+    margin-bottom: 40px;
+    position: relative;
+    flex-wrap: wrap;
+}
+.entry{
+    width: 600px;
+}
+img {
+    width: 480px;
+}
+
+
+
+
+
+
+
+
+
+
